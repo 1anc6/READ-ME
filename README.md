@@ -1,9 +1,9 @@
 # READ-ME
-No thanks for any type of description.
+To lazy to give description.
 
-# 👋 Hello Chooms, Name's Lance.
+# 👋 Hello Chooms, I'm Lance.
 
-### 🎮 Aspiring Game Developer & Tech Enthusiast
+### 🎮 Aspiring Video Game & Tech Enthusiast
 
 I'm a passionate BTech Computer Science Engineering student with a keen interest in programming and creating video game-based projects.
 I enjoy exploring new technologies and bringing creative ideas to life through code.
